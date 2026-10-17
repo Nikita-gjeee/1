@@ -8,3 +8,6 @@ def display_menu():
 
 def get_user_input(prompt):
     return input(prompt).strip()
+# Новая функция, добавленная в 1
+def show_version():
+    print("Версия приложения: 1.0")

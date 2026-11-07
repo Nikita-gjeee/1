@@ -1,3 +1,6 @@
+
+# Изменение от person3 (dev3): добавлена тестовая строка
+
 from tasks import TaskManager
 from utils import display_menu
 
